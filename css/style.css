@@ -136,6 +136,9 @@ padding: 120px;
 .services{
 text-align:center;
 }
+.services h2{
+margin-top: 70px;
+}
 
 h2.title{
 margin-bottom:10px;
@@ -164,9 +167,15 @@ color:#777;
 {
 padding-top:70px;
 }
-
-.team, .about {
-padding-top:240px;
+.about{
+margin-top:70px;
+}
+.team {
+padding-top:120px;
+}
+.team{
+	width:940px;
+	margin:0 auto;
 }
 
 .services-item{
@@ -393,7 +402,8 @@ background-position: -123px -44px;
 }
 
 .brand{
-padding-top:45px;
+padding-top:25px;
+padding-bottom:25px;
 text-align:center;
 }
 
